@@ -1,4 +1,4 @@
-# Welcome to the Mindustry Wiki
+# 欢迎来到像素工厂wiki
 
 ## Latest Game Version: [$latestRelease]($latestReleaseLink)
 
